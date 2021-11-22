@@ -1,0 +1,21 @@
+{
+  "name": "bootstrapinm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server --baseDir=\"public\"",
+    "watch": "node-sass src/scss -wo public/assets/css",
+    "start": "concurrently \"npm run watch\" \"npm run dev\""
+  },
+  "keywords": [],
+  "author": "Audrey Camer",
+  "license": "private",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "concurrently": "^6.4.0",
+    "node-sass": "^6.0.1"
+  }
+}

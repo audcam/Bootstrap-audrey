@@ -1,0 +1,167 @@
+body {
+  background-color: #F7F8FC; }
+
+#sidebarMenu {
+  font-family: 'Mulish', sans-serif;
+  background-color: #363740; }
+
+a.nav-link {
+  color: #DDE2FF;
+  font-size: 16px;
+  font-weight: 400; }
+
+h1 {
+  font-size: 19px;
+  font-weight: 700;
+  color: #DDE2FF;
+  padding-left: 10px;
+  padding-top: 10px; }
+
+hr {
+  border: 1px solid #DFE0EB; }
+
+.nav-link:hover {
+  background-color: #9fa2b417;
+  color: #DDE2FF; }
+
+.nav-link:active {
+  border-left: #DDE2FF 10px solid;
+  color: #DDE2FF; }
+
+.h2 {
+  font-family: "Mulish", sans-serif;
+  color: #363740;
+  font-size: 24px;
+  font-weight: 400; }
+
+h3 {
+  font-family: "Mulish", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  padding-left: 30px;
+  border-left: #DDE2FF solid 1px;
+  margin-left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10px; }
+
+svg {
+  margin: 10px; }
+
+.ticket {
+  text-align: center;
+  border: 1px solid #DFE0EB;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: white; }
+
+.ticket h4 {
+  color: #9FA2B4;
+  font-family: "Mulish", sans-serif;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.4px; }
+
+.ticket h5 {
+  color: #252733;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px; }
+
+.graph {
+  background: #FFFFFF;
+  border: 1px solid #DFE0EB;
+  box-sizing: border-box;
+  border-radius: 8px; }
+
+.graph h2 {
+  color: #252733;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px; }
+
+.graph p {
+  font-family: "Mulish", sans-serif;
+  font-size: 12px;
+  color: #9FA2B4; }
+
+.graph span {
+  color: #252733;
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center; }
+
+.graph li {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #9FA2B4;
+  padding-top: 15px;
+  padding-bottom: 15px; }
+
+.lists {
+  background: #FFFFFF;
+  border: 1px solid #DFE0EB;
+  box-sizing: border-box;
+  border-radius: 8px; }
+
+.lists h5 {
+  font-family: "Mulish", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  margin-top: 15px; }
+
+.lists h6 {
+  margin-top: 15px;
+  font-family: "Mulish", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: right;
+  color: #3751FF; }
+
+.lists p {
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-size: 12px; }
+
+.lists li {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  color: #252733; }
+
+.lists span {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  color: #9FA2B4; }
+
+.btn {
+  font: "Mulish", sans-serif;
+  font-weight: 700;
+  font-size: 11px; }
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none; }
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem; } }
